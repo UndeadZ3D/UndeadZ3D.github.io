@@ -1,0 +1,40 @@
+body {
+    background-color: lightseagreen;
+    font-family: monospace;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid darkblue;
+    background-color: darkcyan;
+    width: 25%;
+    margin: 6px auto;
+}
+
+thead {
+    background-color: blue;
+}
+
+table {
+    border: 2px solid darkblue;
+    background-color: darkcyan;
+    width: 650px;
+    margin: 10px auto;
+}
+
+td {
+    border-top: 1px solid darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+  
+.code {
+    font-family: monospace;
+    background-color: lightskyblue;
+}
